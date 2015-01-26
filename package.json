@@ -1,6 +1,6 @@
 {
   "name": "glsl-blend-soft-light",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "blend mode 'overlay' for GLSL",
   "main": "index.js",
   "license": "MIT",
