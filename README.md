@@ -2,6 +2,8 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
+[(click for demo)](http://mattdesl.github.io/glsl-blend-soft-light/)
+
 Photoshop-like "soft light" blend mode for GLSL.
 
 ```glsl
