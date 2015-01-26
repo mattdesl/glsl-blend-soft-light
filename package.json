@@ -1,6 +1,6 @@
 {
   "name": "glsl-blend-soft-light",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "blend mode 'overlay' for GLSL",
   "main": "index.js",
   "license": "MIT",
@@ -14,8 +14,7 @@
     "email": "dave.des@gmail.com",
     "url": "http://github.com/mattdesl"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "gl-blend-demo": "^1.0.0",
     "browserify": "^8.1.1",
