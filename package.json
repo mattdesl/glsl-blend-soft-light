@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Jam3/glsl-blend-soft-light.git"
+    "url": "git://github.com/mattdesl/glsl-blend-soft-light.git"
   },
   "keywords": [
     "ecosystem:stackgl",
@@ -42,8 +42,8 @@
     "glslify",
     "stackgl"
   ],
-  "homepage": "https://github.com/Jam3/glsl-blend-soft-light",
+  "homepage": "https://github.com/mattdesl/glsl-blend-soft-light",
   "bugs": {
-    "url": "https://github.com/Jam3/glsl-blend-soft-light/issues"
+    "url": "https://github.com/mattdesl/glsl-blend-soft-light/issues"
   }
 }
